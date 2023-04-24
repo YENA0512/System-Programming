@@ -1,4 +1,4 @@
-# System-Programming
+# Systems-Programming
 Lab Report
 
-This is for the labs that I've done in System Programming Class.
+This is for the labs that I've done in Systems Programming Class.
